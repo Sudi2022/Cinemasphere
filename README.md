@@ -1,4 +1,4 @@
-# Cinemasphere; A movie recommendation Web App
+# Cinemasphere; a Movie Recommendation Web App
 
 This project aims to develop and implement a personalized movie recommendation system using the comprehensive MovieLens dataset to enhance the user experience by providing tailored movie suggestions based on individual preferences, leveraging advanced machine learning techniques and data analytics.
 
